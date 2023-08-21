@@ -99,9 +99,7 @@ package abstactionInJavaHw;
             if (amount>balance &&    amount<=overdraftLimit){
                  System.out.println(" You need to pay intrest");
              }
-            else{
-                System.out.println("u have suficient balance");
-            }
+
 
          }
          else {
